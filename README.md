@@ -11,8 +11,8 @@ Olet onnettoman optimistinen ja innostunut. Sinulla on uhkarohkea taipumus luott
 ![PROCRASTINATION](https://KH74.github.io/385E1A95-1EDD-45C0-98B1-4817350CE0A2.jpeg)
 
 
-<div id="image"></div>
+<img id="image"></img>
  
 <script>
-document.getElementById("image").innerHTML = "<img src=https://KH74.github.io/385E1A95-1EDD-45C0-98B1-4817350CE0A2.jpeg/>";
+document.getElementById("image").innerHTML = "<img src='https://KH74.github.io/385E1A95-1EDD-45C0-98B1-4817350CE0A2.jpeg'/>";
 </script>
