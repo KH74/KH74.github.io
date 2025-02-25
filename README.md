@@ -15,9 +15,15 @@ function randomIntFromInterval(min, max)
 {
   return Math.floor(Math.random() * (max - min + 1) + min);
 }
-const images = ["385E1A95-1EDD-45C0-98B1-4817350CE0A2",
-                "5DCA29D8-8CD3-4902-BA93-C635C718D449",
-                "76D1538A-B71F-4229-A505-B7CD5DF2F103"];
-const rndInt = randomIntFromInterval(0, 2);
-document.getElementById("image").innerHTML = "<img src='https://KH74.github.io/"+ images[rndInt] +".jpeg'/>";
+const images = ["failure.jpg",
+                "ineptitude.jpg",
+                "losing.jpg",
+                "mediocrity.jpg",
+                "mistakes.jpg",
+                "pessimism.jpg",
+                "procrastination.jpg",
+                "stupidity.jpg",
+                "apathy.jpg"];
+const rndInt = randomIntFromInterval( 0, images.length-1 );
+document.getElementById("image").innerHTML = "<img src='https://KH74.github.io/img/"+ images[rndInt] +"'/>";
 </script>
