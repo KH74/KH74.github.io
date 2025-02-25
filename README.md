@@ -1,3 +1,8 @@
+SAGITTARIUS
+===========
+You are unhappily optimistic and enthusiastic. You have a reckless tendency to trust in your luck, which has not been bestowed upon you at all. Most Sagittarians are alcoholics or substance abusers. When drunk, Sagittarians imagine themselves to be spiritual teachers. Everyone finds Sagittarians ridiculous. Sagittarians almost invariably have a strong need to travel. Sagittarians are always appreciated when they are on the go.
+
+
 JOUSIMIES
 =========
   
