@@ -1,5 +1,3 @@
-HOIKKA.COM
-===========
 
 SAGITTARIUS
 ===========
